@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2020 FrazBoy.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
@@ -51,7 +51,7 @@ Asena.addCommand(
   { pattern: "help ?(.*)", fromMe: true, dontAddCommandList: true },
   async (message, match) => {
     let CMD_HELP = `╭────────────────╮
-    ᴡʜᴀᴛsᴀᴘᴘ-ʙᴏᴛ
+    FRAZ-ʙᴏᴛ
 ╰────────────────╯
 
 ╭────────────────
